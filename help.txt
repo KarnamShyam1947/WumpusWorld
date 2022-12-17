@@ -1,0 +1,6 @@
+A = Agent
+G = Gold
+W = Wumpus
+S = Stench
+P = Pit
+B = Breeze
